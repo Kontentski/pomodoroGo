@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Pomodoro Timer is a simple command-line application built in Go that helps users manage their time using the Pomodoro Technique. This technique encourages users to work in focused intervals (typically 25 minutes) followed by short breaks (usually 5 minutes). The application features a customizable timer, sound notifications, and a user-friendly interface.
+The ___Pomodoro Timer___ is a simple ___command-line___ application built in Go that helps users manage their time using the Pomodoro Technique. This technique encourages users to work in focused intervals (typically 25 minutes) followed by short breaks (usually 5 minutes). The application features a customizable timer, sound notifications, and a user-friendly interface.
 
 
 
